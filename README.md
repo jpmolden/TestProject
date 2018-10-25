@@ -2,6 +2,6 @@
 
 ## Relative Imports
 
-Importing from subpackage1 while in subpackage2 or the main TestProject Package 
+Importing from other packages in the main project
 
 ![Image](TestProject.uml.png)
